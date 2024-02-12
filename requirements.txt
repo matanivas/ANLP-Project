@@ -1,0 +1,17 @@
+numpy
+torch
+transformers
+datasets
+sentence-transformers
+accelerate
+adapter-transformers
+textacy
+tqdm
+joblib
+scipy
+faiss-cpu
+sklearn
+pandas
+seaborn
+matplotlib
+
